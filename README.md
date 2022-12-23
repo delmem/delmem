@@ -1,11 +1,10 @@
-<h1 align="center">Olá 🎯, Eu Sou Lucas P Silva</h1>
+<h1 align="center"> <b>DELETED MEMBER</b> 👤</h1>
 <h3 align="center">Análise e Ciência de Dados</h3>
 
 - 🔭 Estou Trabalhando com: **Integração Tecnologias Dados**
 
 - 🌱 Estou Aprendendo: **Python, ML, Power BI e Linguagem M, Excel/VBA, SQL Server**
 
-- 📫 Contato: **https://www.linkedin.com/in/lucas-petri-71578225b/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
