@@ -1,9 +1,11 @@
-<h1 align="center"> <b>DELETED MEMBER</b> 👤</h1>
+<h1 align="center"> <b>DELETED MEMBER</b> 🚫</h1>
 <h3 align="center">Análise e Ciência de Dados</h3>
 
 - 🔭 Estou Trabalhando com: **Integração Tecnologias Dados**
 
-- 🌱 Estou Aprendendo: **Python, ML, Power BI e Linguagem M, Excel/VBA, SQL Server**
+- 🌱 Estou Aprendendo: **Python, ML, Power BI e Linguagem M, Excel/VBA, SQL Server**,
+
+- 🐧 Formação em: **LPI Linux Nível 1**
 
 
 <h3 align="left">Connect with me:</h3>
